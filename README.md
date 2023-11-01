@@ -2,7 +2,9 @@
 
 ## Business Requirement
 
-  You are a PE teacher.Five minutes before your class is dismissed, you decides to play a game with all students at your class. The rule is as below: 
+
+
+You are a PE teacher.Five minutes before your class is dismissed, you decides to play a game with all students at your class. The rule is as below: 
 
 
 1. Let all the students stand in one line and everyone counts off in order.
